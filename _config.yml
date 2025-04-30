@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
@@ -25,15 +25,15 @@ author:
   avatar           : "profile.png"
   name             : "张国耀"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "We are all in the gutter, but some of us are looking at the stars"
   location         : "武汉"
-  employer         : "Red Brick University"
+  employer         : "武汉大学"
   uri              : # URL
   email            : "gy.zhang@whu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=-86b7bQAAAAJ&hl=zh-CN&oi=sra"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -74,6 +74,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  CSDN             : "https://blog.csdn.net/weixin_46262854?spm=1000.2115.3001.5343"
+  bilibili         : "https://space.bilibili.com/427405697"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
