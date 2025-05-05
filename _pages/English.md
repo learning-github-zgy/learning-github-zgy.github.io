@@ -2,10 +2,12 @@
 permalink: /English/
 title: "Home page(english)"
 author_profile: true
-redirect_from: 
-  - /English/
-  - /English.html/
+# redirect_from: 
+#   - /resume
 ---
+
+{% include base_path %}
+
 hello, I am 
 
 ## hosipital
